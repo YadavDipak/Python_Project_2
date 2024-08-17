@@ -1,2 +1,2 @@
 # Python_Project_2
-This is my second Python Project.
+**In this project we have to used Python Programming language and it's basic libraries.**
